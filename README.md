@@ -1,4 +1,4 @@
-<img width="881" height="772" alt="image" src="https://github.com/user-attachments/assets/82783d7d-12e5-4f88-bbb5-5b37bbc75fc9" /># 🎓 Student Grade Tracker — Java Console App
+# 🎓 Student Grade Tracker — Java Console App
 
 A console-based Java application to manage and analyze student grades using **Object-Oriented Programming (OOP)**.
 
