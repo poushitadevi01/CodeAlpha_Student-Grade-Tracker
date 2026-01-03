@@ -1,4 +1,4 @@
-# 🎓 Student Grade Tracker — Java Console App
+<img width="881" height="772" alt="image" src="https://github.com/user-attachments/assets/82783d7d-12e5-4f88-bbb5-5b37bbc75fc9" /># 🎓 Student Grade Tracker — Java Console App
 
 A console-based Java application to manage and analyze student grades using **Object-Oriented Programming (OOP)**.
 
@@ -26,10 +26,13 @@ A console-based Java application to manage and analyze student grades using **Ob
 ## ▶️ How to Run the Program
 
 1. Open CMD and go to the project folder:
+cd C:\Users\Desktop\HotelReservationSystem
 
 2. Compile the code:
+javac Room.java Booking.java HotelReservationSystem.java
 
 3. Run the program:
+java HotelReservationSystem
 
 ---
 
@@ -39,5 +42,10 @@ A console-based Java application to manage and analyze student grades using **Ob
 - You may need to authorize GitHub login once while pushing from laptop
 
 ---
+
+👤 Author
+**Poushita Devi**  
+Java Developer | OOP & File I/O Project  
+Built with ❤️ using **Java, Object-Oriented Programming, and CSV File Storage**
 
 💬 Feel free to fork this repo, raise issues, or give suggestions!
